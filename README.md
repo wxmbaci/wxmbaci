@@ -5,8 +5,7 @@
 - 👯 I’m looking to collaborate with others.
 - 🥅 2023 Goals: Contribute more to Open Source project.
 
-- [![My Skills](https://skillicons.dev/icons?i=java,php,python,cpp,js,html,css,go)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=spring,vue,react,qt,flask,docker,nginx,linux)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=java,php,python,js,html,docker,nginx)](https://skillicons.dev)
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wxmbaci&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wxmbaci&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wxmbaci&theme=nord_dark) |
 | :-: | :-: | :-: |
