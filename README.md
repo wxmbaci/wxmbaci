@@ -2,7 +2,6 @@
 <!-- <p>Thx for visit.</p>   -->
 
 - 🌱 I’m currently Improving My Problem Solving & learning Full Stack Developement
-- 👯 I’m looking to collaborate with others.
 - 🥅 2023 Goals: Contribute more to Open Source project.
 
 - [![My Skills](https://skillicons.dev/icons?i=java,php,python,js,html,docker,nginx)](https://skillicons.dev)
