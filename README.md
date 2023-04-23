@@ -15,6 +15,3 @@
 <!-- ### ❤️ Cute Badges
 [![An image of @wxmbaci's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wxmbaci)](https://holopin.io/@wxmbaci)
  -->
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=wxmbaci.wxmbaci" alt="visitor badge"/>
-</p>
